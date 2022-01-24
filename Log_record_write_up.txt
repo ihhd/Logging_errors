@@ -1,0 +1,7 @@
+*My javascript code log the errors into text file if any error occures
+while enter the wrong input
+
+*My javascript code create text file called Errors.txt 
+and write tha all errors in that file
+
+*I am sharing the github link for reference
